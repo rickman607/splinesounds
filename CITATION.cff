@@ -1,0 +1,12 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: splinesounds
+message: 'If you use this software, please cite it as below.'
+type: dataset
+authors:
+  - given-names: Ricardo
+    family-names: Mayorga B.
+    email: ricardomayorgab@gmail.com
+    affiliation: USFQ
