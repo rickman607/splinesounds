@@ -1,2 +1,2 @@
 # splinesounds
-Parte 1 por ahora: splines cúbicos, interpolación de puntos en 2D
+splines cúbicos, interpolación de puntos en 2D, generación de música con https://twotone-midiout-beta.netlify.app/.
